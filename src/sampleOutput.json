@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 258,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Lisalee Solomons and Ntwaagae Seleka",
+      "title": "'This is war': South Africans in Ukraine urged to flee to Poland as fighting intensifies",
+      "description": "About 200 South Africans, including students, stuck in the Ukraine are urged to flee Poland and seek refuge, the Department of International Relations and Cooperation has said.",
+      "url": "https://www.news24.com/news24/SouthAfrica/News/this-is-war-south-africans-in-ukraine-urged-to-flee-to-poland-as-fighting-intensifies-20220226",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3234/fe2f4a02f0844228bd7aa0b1b77b51fc.jpg",
+      "publishedAt": "2022-02-26T17:11:29+00:00",
+      "content": "<ul><li>Thirteen South African students are still stuck in Ukraine.</li><li>South Africans are struggling to get transportation to the borders to flee the country. </li><li>Ukraine Crisis Evacuation … [+2793 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "'Remarkable': CNN reporter spots major Russian tank movement on live tv - CNN Video",
+      "description": "CNN's Frederik Pleitgen spots heavy Russian tanks moving towards Ukraine near Belgorod, Russia.",
+      "url": "http://us.cnn.com/videos/world/2022/02/26/russian-tanks-ukraine-video-pleitgen-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220226113918-russian-tanks-pleitgen-russia-super-tease.jpg",
+      "publishedAt": "2022-02-26T17:07:29.5316622Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Fox News",
+      "title": "Russian vodka pulled from shelves in US, Canada bars, liquor stores: ‘Every small thing makes a difference’",
+      "description": "Liquor stores across the U.S. and Canada have started throwing out their stocks of Russian vodka in protest of President Vladimir Putin’s invasion of Ukraine, according to reports.",
+      "url": "https://www.foxnews.com/us/russian-vodka-us-canada-bars-liquor-stores-shelves",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/vodka.jpg",
+      "publishedAt": "2022-02-26T17:07:20.2329986Z",
+      "content": "Liquor stores across the U.S. and Canada have started throwing out their stocks of Russian vodka in protest of President Vladimir Putins invasion of Ukraine, according to reports. \r\nIn Ontario, Canad… [+2683 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Fox News",
+      "title": "Ukrainian mom pleads for help from bomb shelter: Putin won’t stop, until he’s stopped",
+      "description": "Ukrainian mom Olena Gnes joins ‘Cavuto Live’ from a Kyiv bomb shelter and pleads for military intervention to prevent a ‘genocide’ in Ukraine.",
+      "url": "https://video.foxnews.com/v/6298970419001/",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2d51816-a361-4a38-9e82-12dc89c8ddde/2b70410b-a0b4-429d-a045-5df8215d4dac/1280x720/match/image.jpg",
+      "publishedAt": "2022-02-26T17:07:18.7802362Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Rebecca Beitsch and Morgan Chalfant",
+      "title": "Europe braces for wave of Ukrainian refugees | TheHill",
+      "description": "A mass exodus of Ukrainians risks overwhelming resources in neighboring countries even as Europe...",
+      "url": "http://thehill.com/policy/international/595918-europe-braces-for-wave-of-ukrainian-refugees",
+      "urlToImage": "https://thehill.com/sites/default/files/article_images/ukraine_022422_ap-vadim-ghirda_refugees.jpg",
+      "publishedAt": "2022-02-26T17:00:07Z",
+      "content": "A mass exodus of Ukrainians risks overwhelming resources in neighboring countries even as Europe pledges to aid refugees fleeing Russias invasion.\r\nU.S. intelligence agencies have assessed that anywh… [+8235 chars]"
+    },
+    {
+      "source": { "id": "die-zeit", "name": "Die Zeit" },
+      "author": null,
+      "title": "Grenze zur Ukraine: Auf der Flucht",
+      "description": "Mehr als 120.000 Menschen haben die Ukraine verlassen. Familien werden auseinandergerissen, viele Frauen und Kinder harren in der Kälte aus. Bilder von den Grenzen",
+      "url": "https://www.zeit.de/politik/ausland/2022-02/ukraine-grenze-polen-ungarn-hilfsaktionen-fs",
+      "urlToImage": null,
+      "publishedAt": "2022-02-26T16:58:33+00:00",
+      "content": "When browsing with ads:\r\nWe collect personal data and also transmit it to third-party providers\r\n that help us improve and finance our digital content. Some of the information stored on your device, … [+732 chars]"
+    },
+    {
+      "source": { "id": "der-tagesspiegel", "name": "Der Tagesspiegel" },
+      "author": null,
+      "title": "Mönchengladbach schafft 2:2 nach 0:2 gegen Wolfsburg – Köln patzt",
+      "description": "Auch in der Fußball-Bundesliga ist das Thema Krieg allgegenwärtig. Durch Schweigeminuten und Transparente zeigen die Klubs ihre Solidarität mit der Ukraine.",
+      "url": "https://www.tagesspiegel.de/sport/der-24-spieltag-in-der-fussball-bundesliga-moenchengladbach-schafft-2-2-nach-0-2-gegen-wolfsburg-koeln-patzt/28109760.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/borussia-moenchengladbach-vfl-wolfsburg/28109762/1-format530.jpg",
+      "publishedAt": "2022-02-26T16:56:29+00:00",
+      "content": "Unter dem Eindruck des Kriegs in der Ukraine haben die Bundesliga-Clubs mit Schweigeminuten ihre Solidarität mit der ukrainischen Bevölkerung ausgedrückt. Begleitet von weiteren Aktionen spielte sich… [+2133 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Zachary Basu",
+      "title": "Germany authorizes weapons for Ukraine in major reversal",
+      "description": "Germany had previously opposed arming Ukraine due to its \"historical responsibilities.\"",
+      "url": "https://www.axios.com/germany-weapons-ukraine-russia-156e24ad-b591-421e-9c22-105118adc377.html",
+      "urlToImage": "https://images.axios.com/SYWQ2VgiJ8MjQmisii428O-02MQ=/0x0:3000x1688/1366x768/2022/02/26/1645892041036.jpg",
+      "publishedAt": "2022-02-26T16:53:04Z",
+      "content": "Germany will allow the Netherlands to transfer 400 rocket-propelled grenade launchers to Ukraine, marking a major shift in Berlin's restrictive arms export policy, Politico first reported.\r\nWhy it ma… [+1203 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "Russia launches artillery and missile attacks at Kyiv",
+      "description": "Russia has launched coordinated artillery and missile attacks in Ukraine, taking aim at key sites like Kyiv in its boldest offensive yet. Holly Williams reports.",
+      "url": "https://www.cbsnews.com/video/russia-launches-artillery-and-missile-attacks-at-kyiv/",
+      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/02/26/abf047c8-e608-41e3-ac17-6c85d6656c20/thumbnail/1200x630/38b3913890f5e13509148cd5f27eac52/0226-cbssatmo-ukrainelatest-williams-906118-640x360.jpg",
+      "publishedAt": "2022-02-26T16:51:14+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2022 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "Eye Opener: Russian troops bear down on Kyiv",
+      "description": "Ukraine's capital city is under siege as Russian troops advance. Also, Republicans attending CPAC debate how to respond to Vladimir Putin's aggression. All that and all that matters in today’s Eye Opener.",
+      "url": "https://www.cbsnews.com/video/eye-opener-russian-troops-bear-down-on-kyiv/",
+      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/02/26/86a86f44-594d-40e7-9f4c-16223d6fd8ee/thumbnail/1200x630/e39a20912a19f0498a87abdb875a72ca/0226-cbssatmo-eyeopener-906112-640x360.jpg",
+      "publishedAt": "2022-02-26T16:51:14+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2022 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": { "id": "google-news-fr", "name": "Google News (France)" },
+      "author": "Juliette Campion, Pierre Godon",
+      "title": "DIRECT. Le ministère de la Défense russe ordonne à l'armée \"d'élargir l'offensive\" sur l'Ukraine",
+      "description": "De son côté, la mairie de Kiev impose un couvre-feu à ses habitants jusqu'à lundi matin.",
+      "url": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-kiev-repousse-une-offensive-russe-dans-la-nuit-le-president-zelensky-appelle-a-ne-pas-deposer-les-armes_4982595.html",
+      "urlToImage": "https://www.francetvinfo.fr/image/7611kik0l-fd93/1500/843/26502324.jpg",
+      "publishedAt": "2022-02-26T16:50:59+00:00",
+      "content": "Retrouvez ici l'intégralité de notre live #UKRAINE\r\n18h01 : C'est quoi \"une limitation ciblée\"?\r\n17h59 : Notez que jusqu'à aujourd'hui, l'Allemagne n'avait promis de livrer que 5 000 casques à l'Ukra… [+10957 chars]"
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "L'UEFA devrait mettre fin à sa collaboration avec Gazprom la semaine prochaine",
+      "description": "À la suite de l'intervention militaire russe en Ukraine, l'UEFA va mettre fin, la semaine prochaine, au partenariat avec Gazprom, qui court depuis 2012.",
+      "url": "https://www.lequipe.fr/Football/Actualites/L-uefa-devrait-mettre-fin-a-sa-collaboration-avec-gazprom-la-semaine-prochaine/1319423",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/la-collaboration-entre-l-uefa-de-ceferin-et-gazprom-va-prendre-fin-dans-les-prochains-jours-b-cremel/1500000001612075/0:0,1998:1332-640-427-75/59f1c.jpg",
+      "publishedAt": "2022-02-26T16:45:00+00:00",
+      "content": "L'UEFA y réfléchissait déjà depuis plusieurs jours et la menace va se faire concrète. En raison de l'intervention russe en Ukraine, l'instance européenne, qui a mis ses avocats sur le coup, va rompre… [+527 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Mark MacKinnon",
+      "title": "Volodymyr Zelensky’s astonishing transition from TV comic to wartime leader",
+      "description": "‘I need ammunition, not a ride,’  the Ukrainian president tells the world as he vows to fight till the end",
+      "url": "https://www.theglobeandmail.com/world/article-ukrainian-president-volodymyr-zelensky-kyiv-profile/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/wbV4hpkiB9azdnH9G9r2QonXcuY=/1200x677/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/3NHAH7REKRNJNIEHBTJLTLBPOI.jpg",
+      "publishedAt": "2022-02-26T16:43:04Z",
+      "content": "In a video posted to his Facebook page on Feb. 25 Ukraine's President, Volodymyr Zelensky, says \"we are all here\" as he stands near the presidency building in Kyiv with his advisers.Volodymyr Zelensk… [+12414 chars]"
+    },
+    {
+      "source": { "id": "die-zeit", "name": "Die Zeit" },
+      "author": null,
+      "title": "24. Spieltag: Bayer festigt Platz drei - Ukraine-Krise allgegenwertig",
+      "description": null,
+      "url": "https://www.zeit.de/news/2022-02/26/bayer-leverkusen-festigt-dritten-bundesliga-tabellenplatz",
+      "urlToImage": null,
+      "publishedAt": "2022-02-26T16:42:55+00:00",
+      "content": "When browsing with ads:\r\nWe collect personal data and also transmit it to third-party providers\r\n that help us improve and finance our digital content. Some of the information stored on your device, … [+732 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Andy Gregory",
+      "title": "Ukrainian man offers to tow enemy tank back to Russia after it runs out of fuel",
+      "description": "UK intelligence suggests invading Russian forces may be suffering ‘acute logistical difficulties’",
+      "url": "http://www.independent.co.uk/news/world/europe/ukraine-tank-fuel-russia-kyiv-b2024003.html",
+      "urlToImage": "https://static.independent.co.uk/2022/02/26/16/Screenshot%202022-02-26%20at%2016.39.02.png?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-02-26T16:40:34Z",
+      "content": "A Ukrainian man has filmed himself offering to tow an enemy tank back to Russia, after spotting the assault vehicle having apparently ground to a halt in the middle of a motorway.\r\nThe latest in a se… [+3160 chars]"
+    },
+    {
+      "source": { "id": "die-zeit", "name": "Die Zeit" },
+      "author": null,
+      "title": "Krieg in der Ukraine: Bundesregierung genehmigt den Niederlanden Waffenexport ",
+      "description": null,
+      "url": "https://www.zeit.de/news/2022-02/26/bundesregierung-genehmigt-den-niederlanden-waffenexport",
+      "urlToImage": null,
+      "publishedAt": "2022-02-26T16:38:53+00:00",
+      "content": "When browsing with ads:\r\nWe collect personal data and also transmit it to third-party providers\r\n that help us improve and finance our digital content. Some of the information stored on your device, … [+732 chars]"
+    },
+    {
+      "source": { "id": "die-zeit", "name": "Die Zeit" },
+      "author": null,
+      "title": "Russland-Ukraine-Krieg: Bundesregierung genehmigt den Niederlanden Waffenexport an Ukraine",
+      "description": "400 Panzerfäuste aus deutscher Produktion dürfen an die Ukraine ausgeliefert werden. Zudem will das Bundeswirtschaftsministerium 14 gepanzerte Fahrzeuge liefern.",
+      "url": "https://www.zeit.de/politik/ausland/2022-02/bundesregierung-genehmigt-den-niederlanden-waffenexport-an-ukraine",
+      "urlToImage": null,
+      "publishedAt": "2022-02-26T16:38:18+00:00",
+      "content": "When browsing with ads:\r\nWe collect personal data and also transmit it to third-party providers\r\n that help us improve and finance our digital content. Some of the information stored on your device, … [+732 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Chechen leader, a Putin ally, says his forces deployed to Ukraine",
+      "description": "Kadyrov says Chechen units had so far suffered no losses and Russian forces took large Ukrainian cities including Kyiv.",
+      "url": "http://www.aljazeera.com/news/2022/2/26/putins-chechen-ally-says-forces-deployed-ukraine-to-back-russia",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/02/2022-02-25T181537Z_2131194393_RC20RS933C7Z_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-KADYROV.jpg?resize=1200%2C630",
+      "publishedAt": "2022-02-26T16:36:38Z",
+      "content": "Ramzan Kadyrov, the leader of Russias Chechnya region and an ally of Russian President Vladimir Putin, has said Chechen fighters had been deployed in Ukraine, and he urged Ukrainians to overthrow the… [+2698 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "JOHN DANISZEWSKI",
+      "title": "Zelenskyy's unlikely journey from comedy to Ukrainian hero",
+      "description": "WARSAW, Poland (AP) — When Volodymyr Zelenskyy was growing up in southeastern Ukraine, his Jewish family spoke Russian and his father once forbade the younger Zelenskyy from going abroad to study in Israel.",
+      "url": "https://apnews.com/c270027c825e009ed66988bb98a3476e",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a2abccb89c954b988af03f3b2c74e533/3000.jpeg",
+      "publishedAt": "2022-02-26T16:35:06Z",
+      "content": "WARSAW, Poland (AP) — When Volodymyr Zelenskyy was growing up in southeastern Ukraine, his Jewish family spoke Russian and his father once forbade the younger Zelenskyy from going abroad to study in … [+7817 chars]"
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Guerre en Ukraine : « J'ai vu la guerre de mes propres yeux, je l'ai entendue », raconte Dayana Yastremska",
+      "description": "La joueuse ukrainienne Dayana Yastremska a fui son pays et les bombardements vendredi, avec sa petite soeur de 15 ans. Arrivée à Lyon ce samedi matin, elle a lu pour L'Equipe une lettre qu'elle a rédigée après avoir quitté ses parents à la frontière. Puis nou…",
+      "url": "https://www.lequipe.fr/Tennis/Actualites/Guerre-en-ukraine-j-ai-vu-la-guerre-de-mes-propres-yeux-je-l-ai-entendue-raconte-dayana-yastremska/1319421",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",
+      "publishedAt": "2022-02-26T16:34:00+00:00",
+      "content": "C'est à ce moment-là que vous vous êtes réfugiés dans le parking sous-terrain ?On est d'abord rentrées à l'appartement, au 12e étage de notre immeuble. On a alors entendu une nouvelle explosion. Cett… [+2784 chars]"
+    }
+  ]
+}
